@@ -1,4 +1,4 @@
-import groq from "./aiClient.js";
+import groq from "./aiclient.js";
 
 const systemPrompt = `Your task is to generate an attractive, professional, natural-sounding property description based ONLY on the property information provided by the user.
 
