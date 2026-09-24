@@ -9,7 +9,7 @@ import {
 import PropertyList from "./components/home/PropertyList";
 import PropertyListing from "./components/propertyListing/PropertyListing";
 import Main from "./components/home/Main";
-import Accomodation from "./components/accomodation/Accomodation";
+import Accomodation from "./components/Accomodation/Accomodation";
 import Login from "./components/user/Login";
 import Signup from "./components/user/Signup";
 import Profile from "./components/user/Profile";
@@ -18,7 +18,7 @@ import MyBookings from "./components/myBookings/MyBookings";
 import BookingDetails from "./components/myBookings/BookingDetails";
 import { useState } from "react";
 import { Toaster } from "react-hot-toast";
-import AccomodationForm from "./components/accomodation/AccomodationForm";
+import AccomodationForm from "./components/Accomodation/AccomodationForm";
 import ForgetPassword from "./components/user/ForgetPassword";
 import ResetPassword from "./components/user/ResetPassword";
 import UpdatePassword from "./components/user/UpdatePassword";
